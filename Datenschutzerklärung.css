@@ -1,0 +1,115 @@
+/* size and spacing of the sections*/
+
+.u-section-1 .u-sheet-1 {
+    min-height: 50px;
+}
+
+.u-section-2 .u-sheet-1 {
+    min-height: 235px;
+}
+
+.u-section-2 .u-text-1 {
+    margin: 14px 465px 0 175px;
+}
+
+.u-section-2 .u-text-2 {
+    width: 768px;
+    margin: 22px auto;
+}
+
+.u-section-3 .u-text-1 {
+    margin: 20px 474px 0 186px;
+}
+
+.u-section-3 .u-text-2 {
+    margin: 20px 186px 0;
+}
+
+.u-section-3 .u-text-3 {
+    margin: 20px 186px 60px;
+}
+
+.u-section-3 .u-btn-1 {
+    padding: 0;
+}
+
+.u-section-4 .u-sheet-1 {
+    min-height: 316px;
+}
+
+.u-section-4 .u-text-1 {
+    margin: 20px 186px 0;
+}
+
+.u-section-4 .u-text-2 {
+    margin: 20px 228px 0 186px;
+}
+
+.u-section-4 .u-text-3 {
+    font-size: 1rem;
+    margin: 20px 186px;
+}
+
+.u-section-5 .u-sheet-1 {
+    min-height: 500px;
+}
+
+.u-section-5 .u-text-1 {
+    margin: 20px 186px 0;
+}
+
+.u-section-5 .u-text-2 {
+    margin: 20px 228px 0 186px;
+}
+
+.u-section-5 .u-text-3 {
+    margin: 20px 228px 60px 186px;
+}
+
+.u-section-6 .u-sheet-1 {
+    min-height: 321px;
+}
+
+.u-section-6 .u-text-1 {
+    margin: 20px 186px 0;
+}
+
+.u-section-6 .u-text-2 {
+    margin: 20px 228px 20px 186px;
+}
+
+.u-section-7 .u-sheet-1 {
+    min-height: 500px;
+}
+
+.u-section-7 .u-text-1 {
+    margin: 20px 186px 0;
+}
+
+.u-section-7 .u-text-2 {
+    margin: 20px 228px 60px 186px;
+}
+
+.u-section-8 .u-sheet-1 {
+    min-height: 196px;
+}
+
+.u-section-8 .u-text-1 {
+    margin: 20px 186px 0;
+}
+
+.u-section-8 .u-text-2 {
+    margin: 20px 228px 20px 186px;
+}
+
+.u-section-9 .u-sheet-1 {
+    min-height: 396px;
+}
+
+.u-section-9 .u-text-1 {
+    margin: 20px 186px 0;
+}
+
+.u-section-9 .u-text-2 {
+    margin: 20px 228px 60px 186px;
+}
